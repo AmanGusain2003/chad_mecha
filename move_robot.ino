@@ -1,4 +1,4 @@
-// This code has movement of the motor in it.
+// This code has movement of the robot in it with ultrasonic
 
 #include <Servo.h>
 
