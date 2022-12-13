@@ -12,7 +12,7 @@ const int pulley_pin2 = 6;      //up
 //***********
 //some values
 const int forward_delay = 3500;  //delay required for moving the motors forward.
-const int pulley_delay = 3000;   //delay to completely pull pulley down or up.
+const int pulley_delay = 3000;   //delay required to completely pull pulley down or up.
 const int servo_low = 80;    //servo low limit for the claw
 const int servo_high = 150;  //servo high limit for the claw
 const int claw_speed = 20;   //decrease the value to increase the claw speed
